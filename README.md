@@ -33,5 +33,3 @@ The goal is to understand how Jenkins automatically builds, tests, and deploys c
 
 ---
 
-## ⚙️ Integration Architecture
-
